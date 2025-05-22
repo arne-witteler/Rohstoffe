@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  fl_chart: ^0.65.0
