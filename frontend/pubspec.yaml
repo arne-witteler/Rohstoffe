@@ -1,5 +1,16 @@
+name: rrohstoffe
+description: Eine App zur Anzeige von Rohstoffpreisen
+version: 0.1.0
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
   http: ^0.13.6
   fl_chart: ^0.65.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
